@@ -65,6 +65,7 @@
 #include <ctype.h>
 #include <time.h>
 #include <getopt.h>
+#include <sys/sysmacros.h>
 #ifndef WITHOUT_XATTR
 #include <sys/xattr.h>
 #include <sys/acl.h>
