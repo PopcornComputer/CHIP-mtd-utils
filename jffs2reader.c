@@ -73,6 +73,7 @@ BUGS:
 #include <time.h>
 #include <sys/types.h>
 #include <sys/stat.h>
+#include <sys/sysmacros.h>
 #include <dirent.h>
 #include <zlib.h>
 
